@@ -2,8 +2,6 @@
 //  projectEuler1.cpp
 //  projectEuler1
 //
-//  Created by Keith Jankowski on 10/14/15.
-//  Copyright © 2015 Keith Jankowski. All rights reserved.
 //
 
 #include <iostream>
